@@ -1,1 +1,1 @@
-# Spring-Boot-Hibernate-Converter
+# Spring-Boot-Hibernate-Converter-Example
